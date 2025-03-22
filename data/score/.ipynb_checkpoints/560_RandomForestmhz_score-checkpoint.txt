@@ -1,0 +1,19 @@
+Image: ../data/sample_images/560mhz_1000h.fits, frequency: 560 MHz
+Classifier: RandomForest
+Score was 17330.711282542998
+Number of detections 25996
+Number of matches 25859
+Number of matches too far from truth 95
+Number of false detections 137
+Score for all matches 17467.711282542998
+Accuracy percentage 67.54983287266715
+Classification report: 
+              precision    recall  f1-score   support
+
+  1 (SS-AGN)     0.0000    0.0000    0.0000       303
+  2 (FS-AGN)     0.3402    0.2523    0.2897       329
+     3 (SFG)     0.9786    0.9937    0.9861     25227
+
+    accuracy                         0.9726     25859
+   macro avg     0.4396    0.4153    0.4253     25859
+weighted avg     0.9590    0.9726    0.9657     25859

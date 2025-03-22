@@ -1,0 +1,18 @@
+Image: ../data/sample_images/560mhz_1000h.fits, frequency: 560 MHz
+Score was 17232.568425400143
+Number of detections 25996
+Number of matches 25859
+Number of matches too far from truth 95
+Number of false detections 137
+Score for all matches 17369.568425400143
+Accuracy percentage 67.17030212073222
+Classification report: 
+              precision    recall  f1-score   support
+
+  1 (SS-AGN)     0.0000    0.0000    0.0000       303
+  2 (FS-AGN)     0.0995    0.2888    0.1480       329
+     3 (SFG)     0.9785    0.9659    0.9722     25227
+
+    accuracy                         0.9460     25859
+   macro avg     0.3593    0.4182    0.3734     25859
+weighted avg     0.9559    0.9460    0.9503     25859

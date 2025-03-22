@@ -1,0 +1,19 @@
+Image: ../data/sample_images/1400mhz_1000h.fits, frequency: 1400 MHz
+Classifier: SVM
+Score was 5852.784788372888
+Number of detections 8290
+Number of matches 8239
+Number of matches too far from truth 23
+Number of false detections 51
+Score for all matches 5903.784788372888
+Accuracy percentage 71.65656983096113
+Classification report: 
+              precision    recall  f1-score   support
+
+  1 (SS-AGN)     0.0000    0.0000    0.0000        67
+  2 (FS-AGN)     0.0000    0.0000    0.0000       129
+     3 (SFG)     0.9762    1.0000    0.9880      8043
+
+    accuracy                         0.9762      8239
+   macro avg     0.3254    0.3333    0.3293      8239
+weighted avg     0.9530    0.9762    0.9645      8239

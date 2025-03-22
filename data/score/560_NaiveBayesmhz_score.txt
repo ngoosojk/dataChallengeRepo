@@ -1,0 +1,19 @@
+Image: ../data/sample_images/560mhz_1000h.fits, frequency: 560 MHz
+Classifier: NaiveBayes
+Score was 17212.854139685856
+Number of detections 25996
+Number of matches 25859
+Number of matches too far from truth 95
+Number of false detections 137
+Score for all matches 17349.854139685856
+Accuracy percentage 67.0940645024396
+Classification report: 
+              precision    recall  f1-score   support
+
+  1 (SS-AGN)     0.0000    0.0000    0.0000       303
+  2 (FS-AGN)     0.0043    0.0122    0.0063       329
+     3 (SFG)     0.9760    0.9641    0.9700     25227
+
+    accuracy                         0.9407     25859
+   macro avg     0.3268    0.3254    0.3254     25859
+weighted avg     0.9522    0.9407    0.9464     25859

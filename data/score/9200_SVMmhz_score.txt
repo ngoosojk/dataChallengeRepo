@@ -1,0 +1,19 @@
+Image: ../data/sample_images/9200mhz_1000h.fits, frequency: 9200 MHz
+Classifier: SVM
+Score was 3.984251151374048
+Number of detections 13
+Number of matches 10
+Number of matches too far from truth 0
+Number of false detections 3
+Score for all matches 6.984251151374048
+Accuracy percentage 69.84251151374048
+Classification report: 
+              precision    recall  f1-score   support
+
+  1 (SS-AGN)     0.0000    0.0000    0.0000         2
+  2 (FS-AGN)     0.0000    0.0000    0.0000         2
+     3 (SFG)     0.6000    1.0000    0.7500         6
+
+    accuracy                         0.6000        10
+   macro avg     0.2000    0.3333    0.2500        10
+weighted avg     0.3600    0.6000    0.4500        10
