@@ -33,12 +33,12 @@ From the proposed pipeline, investigate new ways to find/classify sources.
 
 ## Prerequisites
 
-All the libraries/dependencies necessary to run the tutorials are listed in the [requirements.txt](https://github.com/Hack4Dev/dataChallenge_hack/blob/master/requirements.txt) file.
+All the libraries/dependencies necessary to run the tutorials are listed in the [requirements.txt](https://github.com/ngoosojk/dataChallengeRepo/blob/master/requirements.txt) file.
 
 
 ## Installation
 
-All the required libraries can be installed using pip and the [requirements.txt](https://github.com/Hack4Dev/dataChallenge_hack/blob/master/requirements.txt) file in the repo:
+All the required libraries can be installed using pip and the [requirements.txt](https://github.com/ngoosojk/dataChallengeRepo/blob/master/requirements.txt) file in the repo:
 
 ```bash
 > pip install -r requirements.txt
@@ -47,7 +47,7 @@ All the required libraries can be installed using pip and the [requirements.txt]
 ### Would you like to clone this repository? Feel free!
 
 ```bash
-> git clone https://github.com/Hack4Dev/dataChallenge_hack.git
+> git clone https://github.com/ngoosojk/dataChallengeRepo.git
 ```
 
 Then make sure you have the right Python libraries for the tutorials. 
@@ -64,7 +64,7 @@ apt install git
 You can then clone the repository by typing:
 
 ```
-git clone https://github.com/Hack4Dev/dataChallenge_hack.git
+git clone https://github.com/ngoosojk/dataChallengeRepo.git
 ```
 
 To update your clone if changes are made, use:
