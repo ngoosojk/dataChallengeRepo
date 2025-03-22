@@ -1,0 +1,2 @@
+data/sample_images/*.fits filter=lfs diff=lfs merge=lfs -text
+data/truth/*.txt filter=lfs diff=lfs merge=lfs -text
