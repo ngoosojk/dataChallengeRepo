@@ -20,12 +20,9 @@ The aim of the tutorials is as  follows:
 - 1400 MHz
 - 9200 MHz
 
-A  sample of each image can be downloaded using the script `binder/download_sample_data.sh`, to excute the script run the following:
 
-```bash
->  bash binder/download_sample_data.sh
-```
-
+The data used in this project can be downloaded from [this Google Drive link](https://drive.google.com/drive/folders/1M5kuhEqW6Ee8i82arNkfcKPsFsHyb31M?usp=sharing).
+To run the code, ensure that the individual datasets—sample_images, truth, source, and score folders—are placed inside a directory named data, which should reside in the same directory as the main project files.
 
 ## Hackathon Task
 From the proposed pipeline, investigate new ways to find/classify sources.
@@ -41,13 +38,15 @@ All the libraries/dependencies necessary to run the tutorials are listed in the 
 All the required libraries can be installed using pip and the [requirements.txt](https://github.com/ngoosojk/dataChallengeRepo/blob/master/requirements.txt) file in the repo:
 
 ```bash
-> pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Would you like to clone this repository? Feel free!
 
 ```bash
-> git clone https://github.com/ngoosojk/dataChallengeRepo.git
+git clone https://github.com/ngoosojk/dataChallengeRepo.git
+cd dataChallengeRepo
+
 ```
 
 Then make sure you have the right Python libraries for the tutorials. 
@@ -65,13 +64,7 @@ You can then clone the repository by typing:
 
 ```
 git clone https://github.com/ngoosojk/dataChallengeRepo.git
-```
-
-To update your clone if changes are made, use:
-
-```
-cd dataChallenge_hack/
-git pull
+cd dataChallengeRepo
 ```
 
 -----
